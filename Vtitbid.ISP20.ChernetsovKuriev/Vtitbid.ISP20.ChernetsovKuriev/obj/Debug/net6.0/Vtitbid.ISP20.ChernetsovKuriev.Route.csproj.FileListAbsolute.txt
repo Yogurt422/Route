@@ -1,0 +1,15 @@
+C:\Users\kraka\source\repos\Vtitbid.ISP20.ChernetsovKuriev\Vtitbid.ISP20.ChernetsovKuriev\obj\Debug\net6.0\Vtitbid.ISP20.ChernetsovKuriev.Route.csproj.AssemblyReference.cache
+C:\Users\kraka\source\repos\Vtitbid.ISP20.ChernetsovKuriev\Vtitbid.ISP20.ChernetsovKuriev\obj\Debug\net6.0\Vtitbid.ISP20.ChernetsovKuriev.Route.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraka\source\repos\Vtitbid.ISP20.ChernetsovKuriev\Vtitbid.ISP20.ChernetsovKuriev\obj\Debug\net6.0\Vtitbid.ISP20.ChernetsovKuriev.Route.AssemblyInfoInputs.cache
+C:\Users\kraka\source\repos\Vtitbid.ISP20.ChernetsovKuriev\Vtitbid.ISP20.ChernetsovKuriev\obj\Debug\net6.0\Vtitbid.ISP20.ChernetsovKuriev.Route.AssemblyInfo.cs
+C:\Users\kraka\source\repos\Vtitbid.ISP20.ChernetsovKuriev\Vtitbid.ISP20.ChernetsovKuriev\obj\Debug\net6.0\Vtitbid.ISP20.ChernetsovKuriev.Route.csproj.CoreCompileInputs.cache
+C:\Users\kraka\source\repos\Vtitbid.ISP20.ChernetsovKuriev\Vtitbid.ISP20.ChernetsovKuriev\bin\Debug\net6.0\Vtitbid.ISP20.ChernetsovKuriev.Route.exe
+C:\Users\kraka\source\repos\Vtitbid.ISP20.ChernetsovKuriev\Vtitbid.ISP20.ChernetsovKuriev\bin\Debug\net6.0\Vtitbid.ISP20.ChernetsovKuriev.Route.deps.json
+C:\Users\kraka\source\repos\Vtitbid.ISP20.ChernetsovKuriev\Vtitbid.ISP20.ChernetsovKuriev\bin\Debug\net6.0\Vtitbid.ISP20.ChernetsovKuriev.Route.runtimeconfig.json
+C:\Users\kraka\source\repos\Vtitbid.ISP20.ChernetsovKuriev\Vtitbid.ISP20.ChernetsovKuriev\bin\Debug\net6.0\Vtitbid.ISP20.ChernetsovKuriev.Route.dll
+C:\Users\kraka\source\repos\Vtitbid.ISP20.ChernetsovKuriev\Vtitbid.ISP20.ChernetsovKuriev\bin\Debug\net6.0\Vtitbid.ISP20.ChernetsovKuriev.Route.pdb
+C:\Users\kraka\source\repos\Vtitbid.ISP20.ChernetsovKuriev\Vtitbid.ISP20.ChernetsovKuriev\obj\Debug\net6.0\Vtitbid.ISP20.ChernetsovKuriev.Route.dll
+C:\Users\kraka\source\repos\Vtitbid.ISP20.ChernetsovKuriev\Vtitbid.ISP20.ChernetsovKuriev\obj\Debug\net6.0\refint\Vtitbid.ISP20.ChernetsovKuriev.Route.dll
+C:\Users\kraka\source\repos\Vtitbid.ISP20.ChernetsovKuriev\Vtitbid.ISP20.ChernetsovKuriev\obj\Debug\net6.0\Vtitbid.ISP20.ChernetsovKuriev.Route.pdb
+C:\Users\kraka\source\repos\Vtitbid.ISP20.ChernetsovKuriev\Vtitbid.ISP20.ChernetsovKuriev\obj\Debug\net6.0\Vtitbid.ISP20.ChernetsovKuriev.Route.genruntimeconfig.cache
+C:\Users\kraka\source\repos\Vtitbid.ISP20.ChernetsovKuriev\Vtitbid.ISP20.ChernetsovKuriev\obj\Debug\net6.0\ref\Vtitbid.ISP20.ChernetsovKuriev.Route.dll
