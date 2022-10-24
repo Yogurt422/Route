@@ -1,0 +1,5 @@
+C:\Users\student\Documents\ISP20\VtitBid.ISP20.Kuriev\VtitBid.ISP20.ChernetsovKuriev.Project\VtitBid.ISP20.ChernetsovKuriev.Project\obj\Debug\net6.0\VtitBid.ISP20.ChernetsovKuriev.Route.csproj.AssemblyReference.cache
+C:\Users\student\Documents\ISP20\VtitBid.ISP20.Kuriev\VtitBid.ISP20.ChernetsovKuriev.Project\VtitBid.ISP20.ChernetsovKuriev.Project\obj\Debug\net6.0\VtitBid.ISP20.ChernetsovKuriev.Route.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\ISP20\VtitBid.ISP20.Kuriev\VtitBid.ISP20.ChernetsovKuriev.Project\VtitBid.ISP20.ChernetsovKuriev.Project\obj\Debug\net6.0\VtitBid.ISP20.ChernetsovKuriev.Route.AssemblyInfoInputs.cache
+C:\Users\student\Documents\ISP20\VtitBid.ISP20.Kuriev\VtitBid.ISP20.ChernetsovKuriev.Project\VtitBid.ISP20.ChernetsovKuriev.Project\obj\Debug\net6.0\VtitBid.ISP20.ChernetsovKuriev.Route.AssemblyInfo.cs
+C:\Users\student\Documents\ISP20\VtitBid.ISP20.Kuriev\VtitBid.ISP20.ChernetsovKuriev.Project\VtitBid.ISP20.ChernetsovKuriev.Project\obj\Debug\net6.0\VtitBid.ISP20.ChernetsovKuriev.Route.csproj.CoreCompileInputs.cache
