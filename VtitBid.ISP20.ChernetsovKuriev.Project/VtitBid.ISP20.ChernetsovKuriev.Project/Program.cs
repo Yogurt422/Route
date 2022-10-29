@@ -4,7 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+// Проблема с проверкой номера маршрута
+// Проверка на пробелы в названии начальных и конечных точек(просто пробел засчитывает) тоже и с номером
+// Проблема с поиском маршрутов и порядком вывода
 namespace Vtitbid.ISP20.ChernetsovKuriev.Route
 {
     public class Program
@@ -12,21 +14,27 @@ namespace Vtitbid.ISP20.ChernetsovKuriev.Route
         public static void Main(string[] args)
         {
             Console.Write("Введите количество маршрутов:");
-            if (int.TryParse(Console.ReadLine(), out int value))
+            bool numbersOfRoute = false;
+            do
             {
-                Route[] array = Route.GetNumberOfRoutes(value);  // (1)
-                Console.WriteLine();
-                foreach (var route in array)
+                if (int.TryParse(Console.ReadLine(), out int value))
                 {
-                    Console.WriteLine(route);
+                    numbersOfRoute = true;
+                    Route[] array = Route.GetNumberOfRoutes(value);  // (1)
                     Console.WriteLine();
+                    foreach (var route in array)
+                    {
+                        Console.WriteLine(route);
+                        Console.WriteLine();
+                    }
+                    Console.WriteLine(Route.SearchRoute(array)); // (4)
                 }
-                Console.WriteLine(Route.SearchRoute(array)); // (4)
+                else
+                {
+                    Console.WriteLine("Количество маршрутов не опредлено\nВведите количество маршрутов(число(не словом))");
+                }
             }
-            else
-            {
-                Console.WriteLine("Количесвто маршрутов не опредлено ");
-            }
+            while (numbersOfRoute == false);
         }
     }
 }

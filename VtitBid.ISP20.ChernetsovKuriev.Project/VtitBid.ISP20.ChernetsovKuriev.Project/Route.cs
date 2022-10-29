@@ -73,12 +73,12 @@ namespace Vtitbid.ISP20.ChernetsovKuriev.Route
                         if (string.IsNullOrEmpty(input))
                         {
                             Console.WriteLine("Начальный маршрут не введён ");
-                            Console.ReadLine();
+                            input = Console.ReadLine();
                         }
                         else if (int.TryParse(input, out i))
                         {
                             Console.WriteLine("Название начала маршрута не может быть числом ");
-                            Console.ReadLine();
+                            input = Console.ReadLine();
                         }
                         else break;
                     }
@@ -90,12 +90,12 @@ namespace Vtitbid.ISP20.ChernetsovKuriev.Route
                         if (string.IsNullOrEmpty(input))
                         {
                             Console.WriteLine("Конечный маршрут не введён ");
-                            Console.ReadLine();
+                            input = Console.ReadLine();
                         }
                         else if (int.TryParse(input, out i))
                         {
                             Console.WriteLine("Название конечного маршрута не может быть числом ");
-                            Console.ReadLine();
+                            input = Console.ReadLine();
                         }
                         else break;
                     }
@@ -112,7 +112,7 @@ namespace Vtitbid.ISP20.ChernetsovKuriev.Route
                 if (string.IsNullOrEmpty(input))
                 {
                     Console.WriteLine("Номер маршрута не введён не введён\nВведите номер маршрута ещё раз ");
-                    Console.ReadLine();
+                    input = Console.ReadLine();
                 }
                 else
                 {
@@ -172,20 +172,32 @@ namespace Vtitbid.ISP20.ChernetsovKuriev.Route
         public static Route SearchRoute(Route[] array) // Поиск маршрута
         {
             Console.WriteLine("Введите номер вашего маршрута");
-            // Дописать цикл на проверку поиска и добавить сюда (a = console.Readline)
+            bool checkFind = false;
+            string checkNumberOfRoute = "";
+            do
+            {
+                checkNumberOfRoute = Console.ReadLine();
                 for (int i = 0; i < array.Length; i++)
                 {
-                    if (a == array[i].NumberOfRoute)
+                    if (checkNumberOfRoute == array[i].NumberOfRoute)
                     {
 
                         Console.WriteLine(array[i]);
+                        checkFind = true;
+                        break;
                     }
                     else
                     {
                         Console.WriteLine(array[i]);
                         i++;
                     }
+                    if (i == array.Length - 1)
+                    {
+                        Console.WriteLine("Такомо маршрута нет\nВведите новый маршрут");
+                    }
                 }
+            }
+            while (checkFind = false);
             
             return null;
         }
